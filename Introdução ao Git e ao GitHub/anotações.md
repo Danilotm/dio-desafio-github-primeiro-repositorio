@@ -112,7 +112,7 @@ git commit -m "Descrição do commit"
 ### Adicionando o repositório remoto
 
 ```bash
-git remote add origin remote adress.git
+git remote add origin remoteadress.git
 ```
 
 Para visualizar os repositórios remotos:
